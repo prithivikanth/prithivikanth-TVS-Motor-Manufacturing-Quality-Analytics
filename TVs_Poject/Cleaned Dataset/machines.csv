@@ -1,0 +1,12 @@
+Machine_ID,Machine_Name,Machine_Type
+M01,CNC Lathe 01,CNC
+M02,CNC Lathe 02,CNC
+M03,Engine Assembly 01,Assembly
+M04,Engine Assembly 02,Assembly
+M05,Frame Welding 01,Welding
+M06,Frame Welding 02,Welding
+M07,Paint Booth 01,Painting
+M08,Paint Booth 02,Painting
+M09,Final Assembly 01,Assembly
+M10,Final Assembly 02,Assembly
+Unknown,Unknown,Unknown
